@@ -1,4 +1,4 @@
-# Identifying Duplicate Questions on Quora
+# Detecting Duplicate Questions on Quora
 
 ## Goal
 

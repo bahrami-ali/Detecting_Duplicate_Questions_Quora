@@ -10,10 +10,10 @@ Identify duplicate questions in a dataset provided by Quora. This dataset contai
 ## Tools used
 
 
-1. **Data Exploration:** Pandas
+1. **Data Exploration:** Python
 2. **Data Cleaning:** tokenization, punctuation removal, stopwords cleaning, normalizing, stemming
-3. **Feature Engineering**: Word2Vec, Tf-Idf
-4. **Modeling**: Logistic Regression, XGBoost
+3. **Feature Engineering**: Word2Vec
+4. **Modeling**: Logistic Regression, Random Forest Classifier
 
 ## Data
 
